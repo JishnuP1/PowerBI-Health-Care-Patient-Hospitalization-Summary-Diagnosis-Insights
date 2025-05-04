@@ -1,2 +1,2 @@
-# PowerBI-Health-Care-Patient-Hospitalization-Summary-Diagnosis-Insights
+# PowerBI-Health-Care-Patient-Hospitalization-Summary and Diagnosis-Insights
 This dashboard provides a comprehensive overview of patient hospitalization details, including admission and discharge dates, diagnosis types, bed occupancy distribution, doctor feedback volume, and financial data such as billing and health insurance amounts. It highlights the most common diagnoses, the associated treatment costs, and patient feedback trends to support data-driven decision-making in hospital management.
